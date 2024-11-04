@@ -1,8 +1,12 @@
 # Assignment: Visualizing overnment Debt
 
-## Part 2
+## Part 1 Government debt bar chart
 
-<div class='tableauPlaceholder' id='viz1730702754123' style='position: relative'>
+![Example Data Visualization](asserts/example.png)
+
+## Part 2 debt-to-GDP hightlight table
+
+<div class='tableauPlaceholder' id='viz1730704334515' style='position: relative'>
   <noscript>
     <a href='#'>
       <img alt='debt-to-GDP ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;de&#47;debt-to-GDP&#47;debt-to-GDP&#47;1_rss.png' style='border: none' />
@@ -27,11 +31,13 @@
 </div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1730702754123');
+  var divElement = document.getElementById('viz1730704334515');
   var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';
-  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+## Part 3
