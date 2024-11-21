@@ -19,6 +19,6 @@ Contains three data visualization as for this assignment - the government debt b
 
 ## Final project
 Final project for Telling Stories with Data. 
-[Part I](final-project-part-one)
+[Part I](/final_project_1_Tongren_Chen.md)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
