@@ -10,7 +10,7 @@ The inspiration for this project came from analyzing Austin Animal Shelter data,
 
 **Set up:**
 
-Each year about 6.3 million of animals enter animal shelter in the U.S. and approximately 920,000 shelter animals are euthanized (Pet Statistics, 2022). People primarily focus on the data for cats and dogs, however other animal actually facing a high euthanized rate.
+Each year about 6.3 million of animals enter animal shelter in the U.S. and approximately 920,000 shelter animals are euthanized *(Pet Statistics, 2022)*. People primarily focus on the data for cats and dogs, however other animal actually facing a high euthanized rate.
 
 **Conflict:**
 
