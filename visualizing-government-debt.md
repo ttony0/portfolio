@@ -1,3 +1,5 @@
+| [home page](https://ttony0.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-1) | [final project II](final-project-2) |
+
 # Assignment: Visualizing overnment Debt
 
 ## Part 1 Government debt bar chart

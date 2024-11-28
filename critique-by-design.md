@@ -1,3 +1,5 @@
+| [home page](https://ttony0.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-1) | [final project II](final-project-2) |
+
 # Assignment 3&4: Critique by Design
 
 This assignment includes all the thoughts and insights as I go through the whole process of choosing a data viz and critiquing this data viz and then finally redesigning the data viz.

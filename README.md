@@ -1,3 +1,5 @@
+| [home page](https://ttony0.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-1) | [final project II](final-project-2) |
+
 # portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
@@ -11,17 +13,17 @@ After graduation, I plan to be machine learning engineer or software development
 
 # Portfolio
 
-## Assignment2: [Visualizing government Debt](/visualizing-government-debt.md)
+## Assignment2: [Visualizing government Debt](visualizing-government-debt)
 Contains three data visualization as for this assignment - the government debt bar chart, the government debt to GDP heat map and my own data visualization based on the second data viz's dataset.
 
-## Assignment 3&4: [Critique by Design](/critique-by-design.md)
+## Assignment 3&4: [Critique by Design](critique-by-design)
  
 
 ## Final project
 Final project for Telling Stories with Data. 
 
-[Part I](/final_project_1_Tongren_Chen.md)
+[Part I](final-project-1)
 
-<!-- [Part II](final-project-part-two)
+[Part II](final-project-2)
 
-[Part III](final-project-part-three) -->
+<!-- [Part III](final-project-part-three) -->
