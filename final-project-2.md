@@ -1,62 +1,42 @@
 | [home page](https://ttony0.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-1) | [final project II](final-project-2) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+[Shorthand Link](https://carnegiemellon.shorthandstories.com/for-love-of-all-animals/index.html)
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My target audience is animal lovers, people who have already adopted animals or are willing to adopt animals, as well as groups who have adopted animals other than cats and dogs.
+
+By asking the following questions, I can identify my target audience:
+- Are you interested in animal adoption or animal preserve?
+- Do you know animal shelter? Are you interested in animals in the animal shelter?
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+| Evaluate data visualization in the storyboard | Are you able to understand the charts on the storyboard and draw conclusions that align with the viz? |
+| Evaluate the effectiveness of the story | Do you think the resolution is effective? |
+| Gather general suggestions on the storyboard | Do you have any other suggestions or feedback on the storyboard? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (female university student and animal lover) | Interview 2 (female university student not so interested in animals) | Interview 3 (male university student interested in animals) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Are you able to understand the charts on the storyboard and draw conclusions that align with the viz? | She is able to understand the data viz and clearly draw the same conclusion. | The data viz and the conclusion are fine. | The data visualization is good. |
+| Do you think the resolution is effective? | The resolution is fine. | I can add one solution: people usually donate to cats and dogs, I can encourage people to focus more on donating food for other animals. | The solution is good too. |
+| Do you have any other suggestions or feedback on the storyboard? | She suggests that I can put my conclusion right under the data viz to make the storyboard more intuitive. | I can have pictures of other animals to intuitively demonstrate other animals' types. | I can start with the idea that in people's impressions, animal shelters are generally associated with cats and dogs, and few think of other animals. |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+| Research Synthesis                        | Anticipated Changes for Part III                                                |
+|-------------------------------------------|---------------------------------------------------------------------------------|
+| Add-on suggestions on solution and start  | Add these parts to make the story more attractive to the audience                |
+| Add conclusion below data viz             | Change all the data visualizations to add a brief conclusion and introduce the conclusion in my own words |
+| Solution of donating food to other animals| Find data to support this idea                                                  |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
+Based on the audience feedback, the story is already complete. However, on this basis, I can try to find more datasets to support my solutions and conclusions. Before the final presentation, I will continue to try to find more datasets to support my story.
