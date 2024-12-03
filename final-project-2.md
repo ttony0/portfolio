@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-[Shorthand Link](https://carnegiemellon.shorthandstories.com/for-love-of-all-animals/index.html)
+[Shorthand Link](https://preview.shorthand.com/9uTZvKKTOIURpck2)
 
 # User research 
 
