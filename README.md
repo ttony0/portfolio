@@ -14,9 +14,12 @@ After graduation, I plan to be machine learning engineer or software development
 # Portfolio
 
 ## Assignment2: [Visualizing government Debt](visualizing-government-debt)
+
 Contains three data visualization as for this assignment - the government debt bar chart, the government debt to GDP heat map and my own data visualization based on the second data viz's dataset.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
+
+This assignment contains a critique to a data viz and my updated version of this data set.
  
 
 ## Final project
