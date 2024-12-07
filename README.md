@@ -26,8 +26,8 @@ This assignment contains a critique to a data viz and my updated version of this
 
 Final project of the imbalance of different animals in Austin.
 
-[Part I](final-project-1)
+[Part I](final-project-1) - Basic set up of project, including project outline, data investigation, initial sketches, and method.
 
-[Part II](final-project-2)
+[Part II](final-project-2) - Basic storyboard set up & user feedback
 
-[Part III](final-project-3)
+[Part III](final-project-3) - Final storyboard & improvement from Part II & Final thoughts
