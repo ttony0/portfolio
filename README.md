@@ -23,7 +23,8 @@ This assignment contains a critique to a data viz and my updated version of this
  
 
 ## Final project
-Final project for Telling Stories with Data. 
+
+Final project of the imbalance of different animals in Austin.
 
 [Part I](final-project-1)
 
