@@ -26,4 +26,4 @@ Final project for Telling Stories with Data.
 
 [Part II](final-project-2)
 
-<!-- [Part III](final-project-part-three) -->
+[Part III](final-project-3)
